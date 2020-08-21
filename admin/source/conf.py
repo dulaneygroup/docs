@@ -50,7 +50,7 @@ master_doc = 'contents'
 
 # General information about the project.
 project = 'Administration Guide'
-copyright = '2019, Dulaney Group, LLC'
+copyright = '2020, Dulaney Group, LLC'
 author = 'Dulaney Group Technologies'
 
 prodname = 'Secure Drive'
